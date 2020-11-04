@@ -1,5 +1,5 @@
 # Mischief demo
-Mischief demo video of the scrip buying framework.
+Mischief demo video of the script buying framework.
 
 Features include:
 - list of script offerings
