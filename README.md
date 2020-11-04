@@ -1,2 +1,2 @@
-# Demo-Code
+# Mischief demo
 Mischief demo code
